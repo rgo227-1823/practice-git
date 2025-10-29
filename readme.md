@@ -1,6 +1,4 @@
-##Created Hello World!! 
+## Hello World Welcome to GIT!! 
 
-addedd new branch called prod-branch 
-## mainly for understnading merge conflicts
-addedd new branch called preprod-branch
-## new branch called preprod-brach has been addedd to practice merge conflits
+1.addedd new branch called prod-branch mainly for understnading merge conflicts
+2.addedd new branch called preprod-branch has been addedd to practice merge conflits
